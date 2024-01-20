@@ -51,8 +51,6 @@ useHead({
     <!-- 遮罩：防止用户在动画播放期间点击屏幕 -->
     <BanTouchMask :touchable="animationEnd" />
 
-    <!-- github 徽标 -->
-    <GithubBadge />
 
     <!-- 中间LOGO部分 -->
     <CenterLogo
