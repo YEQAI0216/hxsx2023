@@ -76,7 +76,7 @@ onMounted(() => {
       />
       <div :class="['hello', { hello_bottom: touchable }]">
         <div>{{ slogan }}</div>
-        <div class="hello_bottom_text">点击以访问 {{ $config.BLOG_NAME }}</div>
+        <div class="hello_bottom_text">   {{ $config.BLOG_NAME }}</div>
       </div>
     </div>
   </div>
