@@ -69,8 +69,8 @@ const GLOBAL_CONFIG = {
    * 网站欢迎标语
    */
   SLOGANS: [
-    "欢迎访问河西肃兴",
-    "河西肃兴",
+    "欢迎访问YEQAI的个人网站",
+    "欢迎访问YEQAI的个人网站",
   ],
   /**
    * 网站分类列表
@@ -84,7 +84,7 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "SUXING",
+    title: "YEQAI",
     keywords: "Blog, Index, Index Page",
     description: "This is my personal blog index page.",
   },
