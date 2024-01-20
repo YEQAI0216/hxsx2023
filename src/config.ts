@@ -85,7 +85,7 @@ const GLOBAL_CONFIG = {
    */
   TKD: {
     title: "YEQAI",
-    keywords: "YEQAI",
+    keywords: "  ",
     description: "YEQAI.",
   },
 };
