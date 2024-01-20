@@ -50,7 +50,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: null,
+  LOGO_URL: "[![Remove-bg-ai-1705776575286.png](https://i.postimg.cc/jjn8ny01/Remove-bg-ai-1705776575286.png)](https://postimg.cc/v1M7pgm7)",
   /**
    * 个人 Github 链接
    */
